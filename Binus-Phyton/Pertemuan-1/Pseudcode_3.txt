@@ -1,0 +1,6 @@
+Mencari Kelulusan mahasiswa
+Dibutuhkan; Nilai
+Implementasi:
+Jika Nilai >=60, Maka Lulus
+Jika Nilai <60, Maka Tidak Lulus
+Diketahui mahasiswa yang lulus dan tidak lulus

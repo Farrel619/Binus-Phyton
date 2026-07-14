@@ -1,0 +1,7 @@
+Mencari Luas Lingkaran
+Dibutuhkan; PI, Jari-jari
+Implementasi:
+Input PI
+Input Jari-jari
+luas = PI * Jari-jari^2
+Tampilkan luas

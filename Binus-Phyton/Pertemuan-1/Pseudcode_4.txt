@@ -1,0 +1,37 @@
+Konversi Suhu
+
+Deklarasi:
+    Tampilkan "1. Celsius"
+    Tampilkan "2. Fahrenheit"
+    Tampilkan "3. Kelvin"
+Implementasi:
+    Input asal
+    Input suhu
+
+    Jika asal = 1 Maka
+        fahrenheit ← (9/5 × suhu) + 32
+        kelvin ← suhu + 273.15
+
+        Tampilkan "Suhu dalam Fahrenheit = ", fahrenheit
+        Tampilkan "Suhu dalam Kelvin = ", kelvin
+
+    Jika tidak, jika asal = 2 Maka
+        celsius ← (suhu - 32) × 5/9
+        kelvin ← celsius + 273.15
+
+        Tampilkan "Suhu dalam Celsius = ", celsius
+        Tampilkan "Suhu dalam Kelvin = ", kelvin
+
+    Jika tidak, jika asal = 3 Maka
+        celsius ← suhu - 273.15
+        fahrenheit ← (9/5 × celsius) + 32
+
+        Tampilkan "Suhu dalam Celsius = ", celsius
+        Tampilkan "Suhu dalam Fahrenheit = ", fahrenheit
+
+    Jika tidak Maka
+        Tampilkan "Pilihan tidak valid"
+
+    Akhir Jika
+Selesai
+
