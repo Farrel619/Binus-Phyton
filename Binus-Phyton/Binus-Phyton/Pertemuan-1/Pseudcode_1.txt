@@ -1,0 +1,7 @@
+Mencari Luas Lapangan sepak bola
+Dibutuhkan; Panjang, Lebar
+Implementasi:
+Input Panjang 
+Input Lebar
+luas = Panjang * Lebar
+Tampilkan luas
